@@ -1,0 +1,16 @@
+.view-project {
+    display: inline-block;
+    margin-top: 5px;
+    padding: 10px 15px;
+    background-color: #0078d7;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 0.9em;
+    transition: background-color 0.3s ease;
+  }
+  
+  .view-project:hover {
+    background-color: #005bb5;
+  }
+  
